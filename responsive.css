@@ -1,0 +1,14 @@
+@media screen and (max-width: 376px) {
+    .mainheading{
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        text-align: center;
+    }
+    .med{
+        flex-direction: column-reverse;
+    }
+    .btncen{
+        text-align: center!important;
+    }
+}
